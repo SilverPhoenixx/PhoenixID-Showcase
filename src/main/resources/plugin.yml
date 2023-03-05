@@ -1,0 +1,9 @@
+name: PhoenixID
+api-version: 1.16
+main: net.royalguardians.PhoenixID.PhoenixID
+version: 0.1
+commands:
+  Language:
+    aliases:
+      - lang
+  Id:
